@@ -8,11 +8,7 @@ import java.io.IOException;
 
 public class Convert {
 
-	/**
-	 * cat u.data | cut -f1,2,3 | tr "\\t" ","
-	 * @throws IOException 
-	 * 
-	 */
+	
 	
 	public static void main(String[] args) throws IOException {
 		
